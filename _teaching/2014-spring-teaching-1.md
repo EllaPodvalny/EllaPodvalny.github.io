@@ -1,8 +1,7 @@
 ---
 title: "A functional role of ongoing brain state in object recognition"
 collection: teaching
-type: ""
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/ongoing_brain_state
 ---
 
 A description of this project is coming soon... 
