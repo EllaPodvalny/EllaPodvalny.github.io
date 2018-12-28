@@ -10,4 +10,4 @@ redirect_from:
 
 I am a neuroscientist interested in visual perception of objects. I’m currently pursuing a research question of how ongoing brain states influence neural processing of incoming visual information and subsequent object perception.  To study this question I use human fMRI, MEG, ECoG, eye-tracking, psychophysics, and computational tools.
   
-I am currently a postdoctoral fellow at Neuroscience Institute, New York University in the lab of Biyu J. He. 
+I am currently a postdoctoral fellow at Neuroscience Institute, New York University in the laboratory of Biyu J. He. 
