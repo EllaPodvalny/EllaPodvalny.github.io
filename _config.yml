@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Ella Podvalny"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Neuroscientist"
+  location         : "NY, New York"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=IhMQa-MAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Ella_Podvalny"
   uri              :
