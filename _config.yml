@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "home"
 title_separator          : "-"
 name                     : &name "Ella Podvalny"
 description              : &description "neuroscientist"
