@@ -11,7 +11,7 @@ title                    : "home"
 title_separator          : "-"
 name                     : &name "Ella Podvalny"
 description              : &description "neuroscientist"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ellapodvalny.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ellapodvalny/ellapodvalny.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
